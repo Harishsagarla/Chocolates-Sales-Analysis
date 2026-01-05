@@ -93,14 +93,3 @@ The dashboard includes the following visual elements:
 
 ---
 
-## 👥 Project Collaboration
-
-The project was self-directed and part of my learning as an aspiring data analyst. It was completed as a follow-along practice from this [YouTube video tutorial](https://youtu.be/ooJO7NW4uJU?si=V0W2xVqev2UzUkXq). This dashboard is designed to be a useful tool for both **sales and marketing teams** to derive insights and improve overall business performance.
-
----
-
-**[Download Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBmOWQyMWQtMzk4ZC00MTI1LWE2YWEtZTEzNjAzOTU1NWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
-
----
-
-**Made by Vidyalaxmi Mallya**
