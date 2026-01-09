@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis Dashboard for Awesome Chocolate
+# 📊 FMCG-Sales-and-Profitability-Performance-Analytics
 
 **Role**: Data Analyst  
 **Technologies**: Power BI, Power Query, DAX, Data Cleaning, Data Visualization  
